@@ -13,7 +13,7 @@
 ### Endpoint-ы
 В проекте 2 REST API endpoint-а:
 * Первый endpoint возвращает product ID и name всех продуктов, у которых калорий меньше чем {данных, введенных в контроллере}.
-* Первый endpoint возвращает product ID, name, and quantity, у которых количество больше, чем {quantity, взятое из запроса SQL}.
+* Второй endpoint возвращает product ID, name, and quantity, у которых количество больше, чем {quantity, взятое из запроса SQL}.
 
 ### Стек технологий
 * Java
